@@ -1,2 +1,3 @@
 // Code your solution in this file!
-let companyNam = 'Scuber'
+let companyName = 'Scuber';
+const companyName = 'Scuber'
